@@ -20,7 +20,6 @@ public class MyCalculatorApplication {
 
     public static void main(String[] args) {
         System.out.println("Calculator works");
-
         MyCalculatorApplication calculator = new MyCalculatorApplication();
         calculator.addingNumbers(7, 5);
         calculator.subtractingNumbers(10,8);
